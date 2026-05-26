@@ -72,7 +72,7 @@ The project emphasizes KPI reporting, time intelligence, and business storytelli
 
 ## 🖼️ Dashboard Preview – Time Intelligence
 
-Time Intelligence
+![Time Intelligence](Time-intelligence-screenshot.png)
 
 ---
 
