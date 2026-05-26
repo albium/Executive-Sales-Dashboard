@@ -66,7 +66,7 @@ The project emphasizes KPI reporting, time intelligence, and business storytelli
 
 ## 🖼️ Dashboard Preview – Executive Overview
 
-Executive Overview
+![Executive Overview](executive-overview.png)
 
 ---
 
